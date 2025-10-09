@@ -2,8 +2,8 @@
 
 public static class DeviceState
 {
-    public static readonly string Model = "VSR 300";
-    public static readonly string SerialNumber = "SN-987654321";
+    public static readonly string Model = "VSR 500";
+    public static readonly string SerialNumber = "SN-287453324";
     public static readonly string HardwareVersion = "2.0";
     
     public static readonly Dictionary<string, Version> InstalledVersions = new()
